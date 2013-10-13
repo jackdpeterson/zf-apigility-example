@@ -23,7 +23,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "dev-develop",
+        "zendframework/zendframework": ">=2.3",
         "zfcampus/zf-apigility": "dev-master"
     },
     "autoload": {
